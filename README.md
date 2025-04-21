@@ -1,2 +1,2 @@
-# 👋 Data structur and algorithm in python
-* all dsa will be included in this repository
+# 👋 Data structure and algorithms in Python
+* all DSA will be included in this repository
